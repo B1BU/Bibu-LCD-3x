@@ -6,6 +6,8 @@ This repository contains my attempt at an LCD shader for [Magpie](https://github
 
 ![Shader Screenshot](https://github.com/B1BU/Bibu-LCD-3x/raw/main/assets/Shader-Screenshot.png)
 
+![Shader Screenshot Closeup](https://github.com/B1BU/Bibu-LCD-3x/raw/main/assets/Shader-Screenshot-Closeup.png)
+
 ## Notes
 
 - I had no experience with shaders prior to the making of this project, so I made heavy use of Chat GPT to get it to a working state. Things may not be perfect.
