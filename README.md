@@ -11,7 +11,7 @@ Screenshots from [Hardcoded](https://store.steampowered.com/app/2693710/HARDCODE
 ## Installation
 
 1. Download and extract [Magpie](https://github.com/Blinue/Magpie/releases).
-2. Drop [Bibu_LCD_3x.hlsl](https://github.com/B1BU/Bibu-LCD-3x/blob/main/Bibu_LCD_3x.hlsl) into the **effects** folder inside of your Magpie folder.
+2. Drop [Bibu_LCD_3x.hlsl](https://github.com/B1BU/Bibu-LCD-3x/releases) into the **effects** folder inside of your Magpie folder.
 3. Create a new scaling mode with the **Bibu_LCD_3x** effect.
 	- If you want a pixel-perfect look, set the scaling type to **Factor** and adjust the scaling factors accordingly.
 	- If you want the program to fit to the screen, set the scaling type to **Adjust**.
