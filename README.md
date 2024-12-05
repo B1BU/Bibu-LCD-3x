@@ -6,7 +6,6 @@ This repository contains my attempt at an LCD shader for [Magpie](https://github
 
 ![Shader Screenshot Example](https://github.com/B1BU/Bibu-LCD-3x/raw/main/assets/Shader-Screenshot-Example.png)
 ![Shader Screenshot](https://github.com/B1BU/Bibu-LCD-3x/raw/main/assets/Shader-Screenshot-2.png)
-Screenshots from [Hardcoded](https://store.steampowered.com/app/2693710/HARDCODED), a queer NSFW game. Sorry, it was the only game I could find to use as an example.
 
 ## Installation
 
@@ -25,3 +24,7 @@ Screenshots from [Hardcoded](https://store.steampowered.com/app/2693710/HARDCODE
 ## Usage
 
 Feel free to use this shader however you like. Credit isn't required, but would be appreciated when sharing or using it publicly.
+
+## Credits
+
+Screenshots from [Hardcoded](https://store.steampowered.com/app/2693710/HARDCODED)... Sorry, it was the only game I could find to use as an example.
